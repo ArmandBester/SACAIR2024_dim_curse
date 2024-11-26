@@ -1,2 +1,3 @@
 # SACAIR2024_dim_curse
-Tutorial on dimensionality reduction
+
+## The Curse of Dimensionality. Antidotes, Spells, and their Manifestations in Model Performance
